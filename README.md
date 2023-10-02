@@ -4,9 +4,10 @@ I'm zhw,welcome to my space.
 - 🌱 I’m currently learning Front-end.
 - 📫 How to reach me: QQ-3331598351
 
-[[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=coderz-w&layout=compact&hide=vue,ts)](https://github.com/anuraghazra/github-readme-stats)](https://github-readme-stats.vercel.app/api/top-langs/?username=coderz-w&layout=compact&exclude_repo=repo1,repo2,repo3
+[[[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=coderz-w&layout=compact&hide=vue,ts)](https://github.com/anuraghazra/github-readme-stats)](https://github-readme-stats.vercel.app/api/top-langs/?username=coderz-w&layout=compact&exclude_repo=repo1,repo2,repo3
 )
-
+](https://github-readme-stats.vercel.app/api/top-langs/?username=coderz-w&layout=compact&exclude_repo=repo1,repo2,repo3
+)
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=coderz-w)](https://github.com/anuraghazra/github-readme-stats)
 
