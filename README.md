@@ -4,12 +4,11 @@ I'm zhw,welcome to my space.
 - 🌱 I’m currently learning Front-end.
 - 📫 How to reach me: QQ-3331598351
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=coderz-w&layout=compact&hide=html,css)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=coderz-w&layout=compact&hide=vue,ts)](https://github.com/anuraghazra/github-readme-stats)
 
 
-<!--
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=seasonHL)](https://github.com/anuraghazra/github-readme-stats)
--->
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=coderz-w)](https://github.com/anuraghazra/github-readme-stats)
+
 
 <!--
 **seasonHL/seasonHL** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
